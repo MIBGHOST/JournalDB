@@ -16,7 +16,7 @@ Navigate to the project directory:
 
 bash
 
-    cd your-repo
+    cd JournalDB
 
 Install dependencies:
 
